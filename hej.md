@@ -1,5 +1,3 @@
-HÄr kommer ## Kort presentation – Kristoffer Toivanen
-
 Jag heter **Kristoffer Toivanen** och arbetar i gränslandet mellan **IT/cybersäkerhet**, **compliance** och **praktisk systemutveckling**. Jag har erfarenhet av att omsätta krav från verksamhet och regelverk till **strukturerade processer, tydlig dokumentation och fungerande tekniska lösningar**.
 
 Just nu fokuserar jag särskilt på:
